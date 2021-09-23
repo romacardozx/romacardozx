@@ -1,6 +1,6 @@
 ### Hi there, I'm Roman 👋
 
-## I'm a Friend, Developer, and Teacher!!
+## I'm a Developer!!
 
 -🔭 I just finished my first Full Stack course!
 
