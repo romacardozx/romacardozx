@@ -21,7 +21,7 @@
       },
       currentlyLearning: [Python, TypeScript, AWS, Solidity ],
       todolist: [Socket, Firebase, React-Native, Next, Nest, Deno, GraphQL, Angular, 
-                 Vue, Mocha, Jest, Docker],
+                 Vue, Mocha, Jest, Docker, Flutter],
     };
 ```
 
