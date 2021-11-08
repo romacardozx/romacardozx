@@ -7,7 +7,7 @@
       currentlyBased: "Buenos Aires📍- Argentina 🇦🇷",
       spokenLanguages: ["español 🧉🥟", "english ☕💂"],
       techStack: {
-        code: JavaScript
+        code: JavaScript,
         tools: {
           frontEnd: [React, Redux, CSS, Material-UI, TailwindCSS],
           backEnd: [Node, Express, Sequelize, Mongoose],
@@ -16,7 +16,7 @@
             nosql: MongoDB
           },
           deployment: [Heroku, Vercel, Netifly],
-          versionControl: Git
+          versionControl: Git,
         },
       },
       currentlyLearning: [Python, TypeScript, AWS, Solidity ],
