@@ -3,11 +3,11 @@
 ```javascript
     const Romacardozx = {
       fullName: "Roman Alejandro Cardozo",
-      profession: "Full Stack Dev 🧑‍💻", 
+      profession: "Front end & Blockchain Dev 🧑‍💻", 
       currentlyBased: "Buenos Aires📍- Argentina 🇦🇷",
       spokenLanguages: ["español 🧉🥟", "english ☕💂"],
       techStack: {
-        code: JavaScript,
+        code: JavaScript, Solidity
         tools: {
           frontEnd: [React, Redux, CSS, Material-UI, TailwindCSS],
           backEnd: [Node, Express, Sequelize, Mongoose],
@@ -19,7 +19,7 @@
           versionControl: Git,
         },
       },
-      currentlyLearning: [Python, TypeScript, AWS, Solidity ],
+      currentlyLearning: [Python, TypeScript, AWS,],
       ToDolist: [Socket, Firebase, React-Native, Next, Nest, Deno, GraphQL, Angular, 
                  Vue, Mocha, Jest, Docker, Flutter],
     };
