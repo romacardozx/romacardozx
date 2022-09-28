@@ -9,7 +9,7 @@
       techStack: {
         code: JavaScript, Solidity
         tools: {
-          frontEnd: [React, Redux, CSS, Ant-Design, TailwindCSS],
+          frontEnd: [React, Redux, CSS, Ant-Design, StyledComponents, TailwindCSS],
           backEnd: [Node, Express, Sequelize, Mongoose],
           databases: {
             sql: PostgreSQL,
