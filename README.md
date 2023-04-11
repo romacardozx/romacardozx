@@ -3,7 +3,7 @@
 ```javascript
     const Romacardozx = {
       fullName: "Roman Alejandro Cardozo",
-      profession: "Front end & Blockchain Dev 🧑‍💻", 
+      profession: "Back End end & Blockchain Dev 🧑‍💻", 
       currentlyBased: "Buenos Aires📍- Argentina 🇦🇷",
       spokenLanguages: ["español 🧉🥟", "english ☕💂"],
       techStack: {
