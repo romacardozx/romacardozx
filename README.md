@@ -7,16 +7,16 @@
       currentlyBased: "Buenos Aires📍- Argentina 🇦🇷",
       spokenLanguages: ["español 🧉🥟", "english ☕💂"],
       techStack: {
-        code: JavaScript, Solidity, Golang, TypeScript
+        code: Golang, JavaScript, Python, Solidity, TypeScript
         tools: {
           frontEnd: [React, Redux, CSS, Ant-Design, StyledComponents, TailwindCSS],
-          backEnd: [Node, Express, Sequelize, Mongoose],
-          databases: { PostgreSQL, MySQL, ARANGODB, IMMUDB, INFLUX, REDISDB, MongoDB },
+          backEnd: [GinGonic, Node, Express, Sequelize, Mongoose],
+          databases: { PostgreSQL, MySQL, ARANGODB, IMMUDB, INFLUXDB, REDISDB, TDEngine, MongoDB },
           deployment: [Heroku, Vercel, Netifly],
           versionControl: Git,
         },
       },
-      currentlyLearning: [Python, TypeScript, AWS,],
+      currentlyLearning: [SNPM, RSYSLOG, AWS,],
       ToDolist: [Socket, Firebase, React-Native, Next, Nest, Deno, GraphQL, Angular, 
                  Vue, Mocha, Jest, Docker, Flutter],
     };
@@ -35,7 +35,3 @@
 
 
 ### 💻 Check Out My Repos ⬇️
-
-
-
-8
