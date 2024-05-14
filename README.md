@@ -3,11 +3,11 @@
 ```javascript
     const Romacardozx = {
       fullName: "Roman Alejandro Cardozo",
-      profession: "Back End end & Blockchain Dev 🧑‍💻", 
+      profession: "Back End Engineer 🧑‍💻", 
       currentlyBased: "Buenos Aires📍- Argentina 🇦🇷",
       spokenLanguages: ["español 🧉🥟", "english ☕💂"],
       techStack: {
-        code: Golang, JavaScript, Python, Solidity, TypeScript
+        code: Golang, JavaScript, Python,
         tools: {
           frontEnd: [React, Redux, CSS, Ant-Design, StyledComponents, TailwindCSS],
           backEnd: [GinGonic, Node, Express, Sequelize, Mongoose],
